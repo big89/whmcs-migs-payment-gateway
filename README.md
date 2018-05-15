@@ -1,4 +1,4 @@
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
 
 # WHMCS MIGS Payment Gateway
 
@@ -18,4 +18,4 @@ Payment Gateway modules allow you to integrate payment solutions with the WHMCS 
 Begin by activating the payment gateway under Setup > Payments > Payment Gateways and choose MIGS from the Available Gateways dropdown.
 
 
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
